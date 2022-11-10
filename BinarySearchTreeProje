@@ -76,3 +76,27 @@
      / \
     2   4             
 -------------------------------------- 
+
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+
+Root:7
+
+1.Adım: Root 7 
+2.Adım: Dizinin ikinci elemanı 5 7'den küçük o yüzden sola eklenir.
+3.Adım: Dizinin üçüncü elemanı 1 7'den küçük ve 5'den küçük o yüzden 5'in soluna eklenir.
+4.Adım: Dizinin dördüncü elemanı 8 7'den büyük sağ tarafa eklenir.
+5.Adım: Dizinin beşinci elemanı 3 7'den küçük, 5'den küçük 1'den büyük 1'in sağına eklenir.
+6.Adım: Dizinin altıncı elemanı 6 7'den küçük 5'den büyük 5'in sağına eklenir.
+7.Adım: Dizinin yedinci elemanı 0 7'den küçük 5'den küçük 1'den küçük 1'in soluna eklenir.
+8.Adım: Dizinin sekizinci elemanı 9 7'den büyük 8'den büyük 8'in sağına eklenir.
+9.Adım: Dizinin dokuzuncu elemanı 4 7'den küçük 5'den küçük 1'den büyük 3'den büyük 3'ün sağına eklenir.
+10.Adım: Dizinin onuncu elemanı 2 7'den küçük 5'den küçük 1'den büyük 3'den küçük 3'ün soluna eklenir.
+
+
+
+
+
+
+
+
+
